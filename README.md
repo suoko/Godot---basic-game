@@ -9,7 +9,9 @@ Use Blosm
 https://www.youtube.com/watch?v=QgZwWSjXzLs&t=188s
 
 Important !!!
-Deselect "Import as a single object"
+- Deselect "Import as a single object" but select "Import Buildings"
+- First select "Terrain" and click "Import"
+- Then select "OpenStreetMap" and click "Import"
 
 
 To keep colors, if added, export as obj by selecting:
