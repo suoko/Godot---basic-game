@@ -15,9 +15,9 @@ To keep colors, if added, export as obj by selecting:
 
 Run convertMapToMedievalTimes.py with the following files in the same dir:
 
-map.obj
-map.mtl
-WALL2.png
-ROOF1.png
-SquareHouseA.obj (A -> E file)
-SquareHouseA.mtl (A -> E files)
+- map.obj
+- map.mtl
+- WALL2.png
+- ROOF1.png
+- SquareHouseA.obj (A -> E file)
+- SquareHouseA.mtl (A -> E files)
